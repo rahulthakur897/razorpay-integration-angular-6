@@ -1,6 +1,5 @@
 # angular6
-# I have mention only steps related to razorpay-integration. Mean while if you have any issue or concern please let me know on 
-rahulthakur897@gmail.com
+# I have mention only steps related to razorpay-integration.
 
 #Steps to integrate Razorpay Integration with angular 6 and above
 1. Add script tag in the bottom of html file, present in the src folder i.e.  
